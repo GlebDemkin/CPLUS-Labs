@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# MSVC intermediate files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.log
+*.ipch
+
+# Temporary files
+*~
+*.tmp
+*.backup
+
+# IntelliSense / modules
+*.ifc
+*.iobj
+*.ipdb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
