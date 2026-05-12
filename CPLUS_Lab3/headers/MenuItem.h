@@ -45,7 +45,7 @@ public:
     MenuItem& operator=(MenuItem&&) noexcept = default;
 
     // Геттеры основных строковых полей.
-    const std::string& getId() const { return id; }
+    // const std::string& getId() const { return id; }
     const std::string& getText() const { return text; }
     const std::string& getActionName() const { return actionName; }
 

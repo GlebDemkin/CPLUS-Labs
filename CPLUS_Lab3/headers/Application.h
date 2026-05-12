@@ -70,9 +70,7 @@ private:
     static void keyCallback(
         GLFWwindow* window,
         int key,
-        int scancode,
-        int action,
-        int mods
+        int action
     );
 
     // Обрабатывает код клавиши GLFW.

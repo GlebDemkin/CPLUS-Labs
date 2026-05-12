@@ -303,14 +303,8 @@ void Application::closeApplication() {
 void Application::keyCallback(
     GLFWwindow* window,
     int key,
-    int scancode,
-    int action,
-    int mods
+    int action
 ) {
-    // Эти параметры сейчас не используются.
-    (void)scancode;
-    (void)mods;
-
     // Обрабатываем только момент нажатия клавиши.
     if (action != GLFW_PRESS) {
         return;
