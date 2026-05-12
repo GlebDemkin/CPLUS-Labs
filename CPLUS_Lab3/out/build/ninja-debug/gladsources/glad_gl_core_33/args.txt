@@ -1,0 +1,1 @@
+--out-path D:/“çñ¡ /C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/gladsources/glad_gl_core_33 --api gl:core=3.3 c 

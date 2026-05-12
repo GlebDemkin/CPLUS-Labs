@@ -1,0 +1,21 @@
+# ninja log v6
+3	76	8002567924443040	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir	ce0d6c65c9878211
+3	76	8002567924443040	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir	ce0d6c65c9878211
+76	2970	8002567953388873	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download	3a5a71e7acf22d15
+76	2970	8002567953388873	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download	3a5a71e7acf22d15
+2970	4794	8002567953460809	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update	953943c7d83fda97
+2970	4794	8002567953460809	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update	953943c7d83fda97
+4795	4877	8002567972452388	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch	e3e529d6cca04577
+4795	4877	8002567972452388	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch	e3e529d6cca04577
+4877	4955	8002567973240966	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure	9d4492dd2d794462
+4877	4955	8002567973240966	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure	9d4492dd2d794462
+4955	5031	8002567973981572	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build	3fec12e4ad04bb9b
+4955	5031	8002567973981572	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build	3fec12e4ad04bb9b
+5031	5110	8002567974791498	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install	3f666540d1ecc8b5
+5031	5110	8002567974791498	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install	3f666540d1ecc8b5
+5111	5195	8002567975613267	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test	c08975203b82ef96
+5111	5195	8002567975613267	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test	c08975203b82ef96
+5195	5295	8002567976630830	CMakeFiles/nanovg-populate-complete	b5e5fa5de14ed336
+5195	5295	8002567976630830	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-done	b5e5fa5de14ed336
+5195	5295	8002567976630830	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate-complete	b5e5fa5de14ed336
+5195	5295	8002567976630830	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-done	b5e5fa5de14ed336

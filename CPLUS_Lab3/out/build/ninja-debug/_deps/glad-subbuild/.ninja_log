@@ -1,0 +1,21 @@
+# ninja log v6
+3	79	8002567743679425	glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	84c447240e277206
+3	79	8002567743679425	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	84c447240e277206
+80	11988	8002567862794741	glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	6b93105177f7b60e
+80	11988	8002567862794741	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	6b93105177f7b60e
+11988	12178	8002567862861718	glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	9476a814bab19476
+11988	12178	8002567862861718	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	9476a814bab19476
+12179	12251	8002567865430776	glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	6fc7450424b5a420
+12179	12251	8002567865430776	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	6fc7450424b5a420
+12251	12319	8002567866115758	glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	541bfdc042ba068f
+12251	12319	8002567866115758	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	541bfdc042ba068f
+12319	12397	8002567866851078	glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	4fbc1bd3e82593cf
+12319	12397	8002567866851078	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	4fbc1bd3e82593cf
+12397	12468	8002567867585705	glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	424ee4231c939702
+12397	12468	8002567867585705	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	424ee4231c939702
+12468	12538	8002567868292404	glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	dff6e168335fb936
+12468	12538	8002567868292404	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	dff6e168335fb936
+12538	12626	8002567869173588	CMakeFiles/glad-populate-complete	34d481a7c8b6873e
+12538	12626	8002567869173588	glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	34d481a7c8b6873e
+12538	12626	8002567869173588	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/CMakeFiles/glad-populate-complete	34d481a7c8b6873e
+12538	12626	8002567869173588	D:/Ó÷¸áà/C++/CPLUS-Labs/CPLUS_Lab3/out/build/ninja-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	34d481a7c8b6873e
