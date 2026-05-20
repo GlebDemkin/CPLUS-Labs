@@ -1,0 +1,69 @@
+# Главное меню игры. Каждый ITEM задаёт текст кнопки, размер, действие и цвета.
+MENU main "DIGGER"
+{
+    # Запуск новой игры.
+    ITEM start "Играть"
+    {
+        SIZE 400 58
+        ACTION start_game
+        COLOR 0 120 35 255
+        SELECTED_COLOR 0 180 55 255
+        TEXT_COLOR 255 255 255 255
+    }
+
+    # Диалог с управлением.
+    ITEM controls "Управление"
+    {
+        SIZE 400 58
+        ACTION open_controls_dialog
+        COLOR 55 55 55 255
+        SELECTED_COLOR 95 95 95 255
+        TEXT_COLOR 255 255 255 255
+    }
+
+    # Диалог с описанием программы.
+    ITEM about "О программе"
+    {
+        SIZE 400 58
+        ACTION open_about_dialog
+        COLOR 55 55 55 255
+        SELECTED_COLOR 95 95 95 255
+        TEXT_COLOR 255 255 255 255
+    }
+
+    # Выход из приложения.
+    ITEM exit "Выход"
+    {
+        SIZE 400 58
+        ACTION exit_application
+        COLOR 130 35 35 255
+        SELECTED_COLOR 190 55 55 255
+        TEXT_COLOR 255 255 255 255
+    }
+}
+
+# Окно с управлением.
+DIALOG controls_dialog "Управление"
+{
+    SIZE 760 360
+    TEXT "Стрелки - движение. Z или Space - выстрел. Esc - пауза. Enter - выбор пункта меню. Для прохождения уровня соберите все изумруды или уничтожьте всех врагов."
+
+    BUTTON ok "ОК"
+    {
+        SIZE 180 48
+        ACTION close_dialog
+    }
+}
+
+# Окно с кратким описанием проекта.
+DIALOG about_dialog "О программе"
+{
+    SIZE 800 360
+    TEXT "Учебная версия игры Digger на C++20. Уровни читаются из внешних файлов .gleb. Активные сущности наследуются от абстрактного класса GameObject. Графика реализована программными пиксельными спрайтами через NanoVG."
+
+    BUTTON ok "ОК"
+    {
+        SIZE 180 48
+        ACTION close_dialog
+    }
+}

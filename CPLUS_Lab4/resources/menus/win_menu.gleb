@@ -1,0 +1,33 @@
+# Меню победы появляется после прохождения всех уровней.
+MENU win "ПОБЕДА"
+{
+    # Новая игра с первого уровня.
+    ITEM restart "Играть снова"
+    {
+        SIZE 400 58
+        ACTION restart_game
+        COLOR 0 120 35 255
+        SELECTED_COLOR 0 180 55 255
+        TEXT_COLOR 255 255 255 255
+    }
+
+    # Возврат в главное меню.
+    ITEM main_menu "Главное меню"
+    {
+        SIZE 400 58
+        ACTION main_menu
+        COLOR 70 70 70 255
+        SELECTED_COLOR 110 110 110 255
+        TEXT_COLOR 255 255 255 255
+    }
+
+    # Выход из приложения.
+    ITEM exit "Выход"
+    {
+        SIZE 400 58
+        ACTION exit_application
+        COLOR 130 35 35 255
+        SELECTED_COLOR 190 55 55 255
+        TEXT_COLOR 255 255 255 255
+    }
+}

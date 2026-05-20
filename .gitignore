@@ -5,12 +5,36 @@
 *.VC.db
 *.opendb
 
+# VS Code
+.vscode/
+
 # Build folders
 Debug/
 Release/
 x64/
 x86/
 ipch/
+out/
+build/
+cmake-build-*/
+
+# Nested build folders in labs
+**/out/
+**/build/
+**/cmake-build-*/
+
+# CMake / Ninja
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+rules.ninja
+.ninja_deps
+.ninja_log
+
+# CMake dependency folders
+_deps/
+**/_deps/
 
 # MSVC intermediate files
 *.obj
@@ -23,18 +47,26 @@ ipch/
 *.FileListAbsolute.txt
 *.log
 *.ipch
+*.lib
+*.exp
 
-# Temporary files
-*~
-*.tmp
-*.backup
+# Executables and binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
 
 # IntelliSense / modules
 *.ifc
 *.iobj
 *.ipdb
 
-# CMake
-CMakeFiles/
-CMakeCache.txt
-cmake-build-*/
+# Temporary files
+*~
+*.tmp
+*.backup
+
+# OS files
+.DS_Store
+Thumbs.db
